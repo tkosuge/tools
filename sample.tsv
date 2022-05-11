@@ -1,0 +1,30 @@
+Entry	Feature	Location	Direction	Left	Right	codon_start	collection_date	country	environmental_sample	ff_definition	gene	host	isolate	isolation_source	mol_type	note	organism	product	ribosomal_slippage	strain	transl_table
+LC000001_1	source	1..1119	+	1	1119		2013	India	@@!+!@@	Classical swine fever virus gene for polyprotein, E2 protein region, strain: ML/RRTC-B14		Sus scrofa		blood of pig	genomic RNA		Classical swine fever virus			ML/RRTC-B14		
+LC000001_1	CDS	<1..>1119	+	1	1119	1												polyprotein			1	
+LC000001_1	mat_peptide	<1..>1119	+	1	1119						E2							envelope protein 2				
+LC000002_2	source	1..1119	+	1	1119		2012	India		Classical swine fever virus gene for polyprotein, E2 protein region, strain: AS/Guwahati-G4		Sus scrofa		blood of pig	genomic RNA		Classical swine fever virus			AS/Guwahati-G4		
+LC000002_2	CDS	<1..>1119	+	1	1119	1												polyprotein			1	
+LC000002_2	mat_peptide	<1..>1119	+	1	1119						E2							envelope protein 2				
+LC000003_3	source	1..12737	+	1	12737		2012-09-28	United Kingdom		Equine arteritis virus genomic RNA, complete genome, isolate: GB_Glos_2012			GB_Glos_2012	semen of horse	genomic RNA		Equine arteritis virus					
+LC000003_3	CDS	join(223..5403,5403..9749)	+	223	9749	1										ORF1ab		replicase	@@!+!@@		1	
+LC000003_3	CDS	9749..9952	+	9749	9952	1										ORF2a		envelope protein E			1	
+LC000003_3	CDS	9822..10505	+	9822	10505	1										ORF2b		glycoprotein 2			1	
+LC000003_3	CDS	10304..10795	+	10304	10795	1										ORF3		glycoprotein 3			1	
+LC000003_3	CDS	10698..11156	+	10698	11156	1										ORF4		glycoprotein 4			1	
+LC000003_3	CDS	11144..11911	+	11144	11911	1										ORF5		glycoprotein 5			1	
+LC000003_3	CDS	11899..12387	+	11899	12387	1										ORF6		membrane protein			1	
+LC000003_3	CDS	12311..12643	+	12311	12643	1										ORF7		nucleocapsid			1	
+LC000004_4	source	1..323	+	1	323		1990-01-23	Japan		Columba livia DNA, EPIC marker TBC1D22B					genomic DNA		Columba livia					
+LC000004_4	misc_feature	1..323	+	1	323											EPIC marker TBC1D22B						
+LC000005_5	source	1..388	+	1	388		1990-01-23	Japan		Corvus corone DNA, EPIC marker TBC1D22B					genomic DNA		Corvus corone					
+LC000005_5	misc_feature	1..388	+	1	388											EPIC marker TBC1D22B						
+LC000006_6	source	1..387	+	1	387		1990-01-23	Japan		Corvus macrorhynchos DNA, EPIC marker TBC1D22B					genomic DNA		Corvus macrorhynchos					
+LC000006_6	misc_feature	1..387	+	1	387											EPIC marker TBC1D22B						
+LC000007_7	source	1..370	+	1	370		1990-01-23	Japan		Hirundo rustica DNA, EPIC marker TBC1D22B					genomic DNA		Hirundo rustica					
+LC000007_7	misc_feature	1..370	+	1	370											EPIC marker TBC1D22B						
+LC000008_8	source	1..357	+	1	357		1990-01-23	Japan		Microscelis amaurotis DNA, EPIC marker TBC1D22B					genomic DNA		Microscelis amaurotis					
+LC000008_8	misc_feature	1..357	+	1	357											EPIC marker TBC1D22B						
+LC000009_9	source	1..391	+	1	391		1990-01-23	Japan		Motacilla alba ocularis x lugens DNA, EPIC marker TBC1D22B					genomic DNA		Motacilla alba ocularis x lugens					
+LC000009_9	misc_feature	1..391	+	1	391											EPIC marker TBC1D22B						
+LC000010_10	source	1..382	+	1	382		1990-01-23	Japan		Passer montanus DNA, EPIC marker TBC1D22B					genomic DNA		Passer montanus					
+LC000010_10	misc_feature	1..382	+	1	382											EPIC marker TBC1D22B						
