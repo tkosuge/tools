@@ -3,6 +3,7 @@
 Converts DDBJ/GenBank type flat file and output as DDBJ annotation and fasta files.
 ```Shell
 perl FFintoANN.pl flatfile.gb
+After run the command, you will see flatfile.gb.ann & flatfile.gb.fasta
 ```
 ## ann2art.pl
 Converts DDBJ annotation file to the file that Artemis can read.
