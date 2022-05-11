@@ -1,0 +1,137 @@
+COMMON	SUBMITTER		contact	Arnab Sen
+			ab_name	Sen,A.
+			ab_name	Ahuja,A.
+			country	India
+			zip	793103
+			state	Meghalaya
+			city	Umiam
+			street	Umroi Road
+			department	Division of Animal Health
+			institute	ICAR Research Complex for NEH Region
+			phone	1-555-5555
+			email	sample@sample.test
+	REFERENCE		ab_name	Ahuja,A.
+			ab_name	Bhattarcharjee,U.
+			ab_name	Chakraborty,A.K.
+			ab_name	Karam,A.
+			ab_name	Ghatak,S.
+			ab_name	Puro,K.
+			ab_name	Das,S.
+			ab_name	Shakuntala,I.
+			ab_name	Sanjukta,R.K.
+			ab_name	Srivastava,N.
+			ab_name	Sen,A.
+			status	Unpublished
+			title	Emargence of subgenogroup 2.1 of Classical swine fever virus in north-eastern India.
+			year	2014
+LC000001_1	source	1..1119	collection_date	2013
+			country	India
+			host	Sus scrofa
+			isolation_source	blood of pig
+			mol_type	genomic RNA
+			organism	Classical swine fever virus
+			strain	ML/RRTC-B14
+			environmental_sample
+			ff_definition	Classical swine fever virus gene for polyprotein, E2 protein region, strain: ML/RRTC-B14
+	CDS	<1..>1119	codon_start	1
+			product	polyprotein
+			transl_table	1
+	mat_peptide	<1..>1119	gene	E2
+			product	envelope protein 2
+	KEYWORD		keyword	ENV
+	DIVISION		division	ENV
+LC000002_2	source	1..1119	collection_date	2012
+			country	India
+			host	Sus scrofa
+			isolation_source	blood of pig
+			mol_type	genomic RNA
+			organism	Classical swine fever virus
+			strain	AS/Guwahati-G4
+			ff_definition	Classical swine fever virus gene for polyprotein, E2 protein region, strain: AS/Guwahati-G4
+	CDS	<1..>1119	codon_start	1
+			product	polyprotein
+			transl_table	1
+	mat_peptide	<1..>1119	gene	E2
+			product	envelope protein 2
+LC000003_3	source	1..12737	collection_date	2012-09-28
+			country	United Kingdom
+			isolate	GB_Glos_2012
+			isolation_source	semen of horse
+			mol_type	genomic RNA
+			organism	Equine arteritis virus
+			ff_definition	Equine arteritis virus genomic RNA, complete genome, isolate: GB_Glos_2012
+	CDS	join(223..5403,5403..9749)	codon_start	1
+			note	ORF1ab
+			product	replicase
+			ribosomal_slippage
+			transl_table	1
+	CDS	9749..9952	codon_start	1
+			note	ORF2a
+			product	envelope protein E
+			transl_table	1
+	CDS	9822..10505	codon_start	1
+			note	ORF2b
+			product	glycoprotein 2
+			transl_table	1
+	CDS	10304..10795	codon_start	1
+			note	ORF3
+			product	glycoprotein 3
+			transl_table	1
+	CDS	10698..11156	codon_start	1
+			note	ORF4
+			product	glycoprotein 4
+			transl_table	1
+	CDS	11144..11911	codon_start	1
+			note	ORF5
+			product	glycoprotein 5
+			transl_table	1
+	CDS	11899..12387	codon_start	1
+			note	ORF6
+			product	membrane protein
+			transl_table	1
+	CDS	12311..12643	codon_start	1
+			note	ORF7
+			product	nucleocapsid
+			transl_table	1
+LC000004_4	source	1..323	mol_type	genomic DNA
+			organism	Columba livia
+			collection_date	1990-01-23
+			country	Japan
+			ff_definition	Columba livia DNA, EPIC marker TBC1D22B
+	misc_feature	1..323	note	EPIC marker TBC1D22B
+LC000005_5	source	1..388	mol_type	genomic DNA
+			organism	Corvus corone
+			collection_date	1990-01-23
+			country	Japan
+			ff_definition	Corvus corone DNA, EPIC marker TBC1D22B
+	misc_feature	1..388	note	EPIC marker TBC1D22B
+LC000006_6	source	1..387	mol_type	genomic DNA
+			organism	Corvus macrorhynchos
+			collection_date	1990-01-23
+			country	Japan
+			ff_definition	Corvus macrorhynchos DNA, EPIC marker TBC1D22B
+	misc_feature	1..387	note	EPIC marker TBC1D22B
+LC000007_7	source	1..370	mol_type	genomic DNA
+			organism	Hirundo rustica
+			collection_date	1990-01-23
+			country	Japan
+			ff_definition	Hirundo rustica DNA, EPIC marker TBC1D22B
+	misc_feature	1..370	note	EPIC marker TBC1D22B
+LC000008_8	source	1..357	mol_type	genomic DNA
+			organism	Microscelis amaurotis
+			collection_date	1990-01-23
+			country	Japan
+			ff_definition	Microscelis amaurotis DNA, EPIC marker TBC1D22B
+	misc_feature	1..357	note	EPIC marker TBC1D22B
+LC000009_9	source	1..391	mol_type	genomic DNA
+			organism	Motacilla alba ocularis x lugens
+			collection_date	1990-01-23
+			country	Japan
+			ff_definition	Motacilla alba ocularis x lugens DNA, EPIC marker TBC1D22B
+	misc_feature	1..391	note	EPIC marker TBC1D22B
+LC000010_10	source	1..382	mol_type	genomic DNA
+			organism	Passer montanus
+			collection_date	1990-01-23
+			country	Japan
+			ff_definition	Passer montanus DNA, EPIC marker TBC1D22B
+	misc_feature	1..382	note	EPIC marker TBC1D22B
