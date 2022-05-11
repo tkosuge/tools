@@ -6,7 +6,7 @@ perl FFintoANN.pl flatfile.gb
 After run the command, you will find "flatfile.gb.ann" & "flatfile.gb.fasta".
 ```
 ## ann2table.pl
-Converts DDBJ annotation file to tsv.
+Converts DDBJ annotation file to tsv. Be sure that the script cannot make COMMON block.
 ```Shell
 perl ann2table.pl AnnotationFile.ann > Output
 ```
